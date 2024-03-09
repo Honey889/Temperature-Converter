@@ -1,0 +1,80 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container{
+    max-width: 450px;
+    background: #407c6f;
+    border-radius: 8px;
+    font-family: sans-serif;
+    box-shadow: 0px 0px 15px 3px rgba(0,0,0,0.4);
+    padding: 20px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap-reverse;
+}
+.temperature-Icon{
+    color: aliceblue;
+    font-size: 45px;
+}
+h1{
+    color: aliceblue;
+    letter-spacing: 1px;
+}
+#celcius, #fahrenheit, #kelvin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+input{
+    flex:5;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    border: none;
+    outline: none;
+    border-radius: 8px 0 0 8px;
+    padding: 0 10px;
+}
+.Icon{
+    flex: 1;
+    height: 60px;
+    line-height: 60px;
+    padding: 0 5px;
+    text-align: center;
+    font-size: 30px;
+    background:rgb(10, 42, 51);
+    color: aliceblue;
+}
+.button{
+    margin-top: 25px;
+    text-align: center;
+}
+.button button{
+    border: none;
+    outline: none;
+    padding: 10px 30px;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.button button:hover{
+    color: aliceblue;
+    background: #000;
+} */
